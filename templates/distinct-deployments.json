@@ -12,7 +12,7 @@
         },
         {
             "name": "GIT_REPOSITORY_URL",
-            "value": "https://github.com/ctfd/CTFd",
+            "value": "https://github.com/Kortho/CTFd",
             "required": true
         },
         {
